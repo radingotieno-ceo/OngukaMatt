@@ -59,19 +59,19 @@ export default function Home() {
   const testimonials = [
     {
       name: "Sarah Johnson",
-      avatar: "/placeholder-user.jpg",
+      avatar: "/johnson.webp",
       comment: "The Jollof Rice was absolutely delicious! Authentic flavors and generous portions. Will definitely order again.",
       rating: 5,
     },
     {
       name: "Michael Omondi",
-      avatar: "/placeholder-user.jpg",
+      avatar: "/omondi.webp",
       comment: "Egusi Soup was very tasty and reminded me of home. Delivery was prompt and the food was still hot when it arrived.",
       rating: 4,
     },
     {
       name: "Amina Hassan",
-      avatar: "/placeholder-user.jpg",
+      avatar: "/amina.webp",
       comment: "The Injera with Doro Wat was perfect! So hard to find authentic Ethiopian food, but OngukaMatt nailed it.",
       rating: 5,
     },
